@@ -1,0 +1,16 @@
+C:\Users\rlumr\workspace\csharp\flowershop\bin\Debug\net5.0\flowershop.exe
+C:\Users\rlumr\workspace\csharp\flowershop\bin\Debug\net5.0\flowershop.deps.json
+C:\Users\rlumr\workspace\csharp\flowershop\bin\Debug\net5.0\flowershop.runtimeconfig.json
+C:\Users\rlumr\workspace\csharp\flowershop\bin\Debug\net5.0\flowershop.runtimeconfig.dev.json
+C:\Users\rlumr\workspace\csharp\flowershop\bin\Debug\net5.0\flowershop.dll
+C:\Users\rlumr\workspace\csharp\flowershop\bin\Debug\net5.0\ref\flowershop.dll
+C:\Users\rlumr\workspace\csharp\flowershop\bin\Debug\net5.0\flowershop.pdb
+C:\Users\rlumr\workspace\csharp\flowershop\obj\Debug\net5.0\flowershop.csproj.AssemblyReference.cache
+C:\Users\rlumr\workspace\csharp\flowershop\obj\Debug\net5.0\flowershop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlumr\workspace\csharp\flowershop\obj\Debug\net5.0\flowershop.AssemblyInfoInputs.cache
+C:\Users\rlumr\workspace\csharp\flowershop\obj\Debug\net5.0\flowershop.AssemblyInfo.cs
+C:\Users\rlumr\workspace\csharp\flowershop\obj\Debug\net5.0\flowershop.csproj.CoreCompileInputs.cache
+C:\Users\rlumr\workspace\csharp\flowershop\obj\Debug\net5.0\flowershop.dll
+C:\Users\rlumr\workspace\csharp\flowershop\obj\Debug\net5.0\ref\flowershop.dll
+C:\Users\rlumr\workspace\csharp\flowershop\obj\Debug\net5.0\flowershop.pdb
+C:\Users\rlumr\workspace\csharp\flowershop\obj\Debug\net5.0\flowershop.genruntimeconfig.cache
